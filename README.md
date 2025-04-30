@@ -2,8 +2,8 @@ Ahad Ahmad Portforlio Website
 
 Made using 
 
-React 
-**Typescript
+**React 
+Typescript
 HTML
 CSS
 JavaScript**
